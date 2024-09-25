@@ -40,7 +40,7 @@ Vector DB Bench 是用 Python 编写的，已获得  MIT 开源许可证授权�
 05.如何设置 Vector DB Bench 自行测试？
 
 如需自行测试，请跳转至“Run Your Test”页面，并选择要测试的向量数据库，并添加这些向量数据库的配置。选择不同数据库还将显示不同 uri、用户名、密码和 db 标签。Vector DB Bench 目前支持六个向量数据库：Milvus、Zilliz Cloud、Pinecone、WeaviateCloud、QdrantCloud 和 ElasticCloud。设置要运行的测试类型（容量或搜索性能）、索引类型、用例（搜索、低或高过滤）和数据集大小（小、中和大）。
-！[Run_Your_test](/GH1.webp)
+![Run_Your_test](/GH1.webp)
 在选择所需配置后，可以运行测试并等待结果。
 
 ![Test](/GH2.webp)
