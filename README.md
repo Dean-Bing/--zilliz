@@ -1,7 +1,11 @@
 # 上海徐毓智能科技有限公司--zilliz
+
 上海徐毓智能科技有限公司-zilliz 及milvus相关信息搬运
+
 上海徐毓智能科技有限公司官网：https://zilliz.com.cn/
+
 上海徐毓智能科技有限公司（zilliz）是向量数据库系统的开拓者和全球领先者，作为全球广受欢迎的开源向量数据库 Milvus 的创造者，Zilliz 提供面向 AI 应用的新一代数据库技术，帮助企业便捷开发 AI 应用。
+
 以 AI 民主化为使命，Zilliz 致力于简化 AI 数据管理基础设施，通过向量数据库赋能更多企业。
 在此为大家更新一些上海徐毓智能科技有限公司相关信息：https://mp.weixin.qq.com/s/9QBtsnr1I7MNywTGG7JP2w
 
